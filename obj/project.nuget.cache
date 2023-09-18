@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "x8UpYyxrFFRQiWeZxTVA1qLHwCAZzvLrPDeWJbw0bho4+cG9AJ+uzPd2O8JUo7jKNsGGp612SK8QdLDYW1EYew==",
+  "dgSpecHash": "hjU9SOEXMc/PJgcCDb0+UZxrfxzfmfUIPb/C+7twTOHkC1tVg45OKpyndvKQZIhFddOQmLWZ2O2it/Udy6WwyA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\felicia.buren\\github-classroom\\TE21C-spel-prog-2\\Uppgift 1\\Bash-a-monster\\Bash-a-monster.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\felicia.buren\\github-classroom\\TE21C-spel-prog-2\\Uppgift 1\\Bash-a-monster\\Bash-a-monster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felicia.buren\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\felicia.buren\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
